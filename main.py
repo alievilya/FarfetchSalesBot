@@ -18,7 +18,6 @@ def load_cfg(path="config.yml"):
     return cfg
 
 def getdata_brand(url, save_path, previous_links):
-    prices = []
     data = dict()
     item_class = "css-1sdwiau-ProductCard e19e7out0"
     p_class_price = "css-8ay7mq-Body-Price e15nyh750"
@@ -152,12 +151,12 @@ def send_new_posts(diction):
 if __name__ == "__main__":
     sales_page = "https://www.farfetch.com/ru/shopping/men/sale/all/items.aspx?page={}&rootCategory=Men"
     stone = "https://www.farfetch.com/ru/shopping/men/stone-island/items.aspx?page={}&rootCategory=Men"
+    sale_value = 80
     brands_arr = [sales_page]
     for i in range(10):
-        if i == 0:
-            brands_yesterday = load_day(brands_arr, counter=24)
-        else:
-            brands_yesterday = load_day(brands_arr, counter=i)
+
+        brands_yesterday = load_day(brands_arr, counter=0)
+
         write_today_brands(brands_arr, previous_links=brands_yesterday)
         brands_today = load_day(brands_arr, counter=i + 1)
         new_arr = {}
@@ -172,6 +171,6 @@ if __name__ == "__main__":
         text_array = []
         for l in link:
             y = brands_today['sale'][l]
-            if y.get('sale') >= 80:
+            if y.get('sale') >= sale_value:
                 print(y)
                 send_new_posts(y)
