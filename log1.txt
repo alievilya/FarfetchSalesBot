@@ -1,0 +1,251 @@
+X:\code\AsosBot\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm Community Edition 2019.1.3\helpers\pydev\pydevd.py" --multiproc --qt-support=auto --client 127.0.0.1 --port 61383 --file X:/code/AsosBot/main.py
+pydev debugger: process 17184 is connecting
+
+Connected to pydev debugger (build 192.7142.79)
+ 36%|███▌      | 143/400 [26:58<52:26, 12.24s/it]  page_not_found
+ 36%|███▋      | 145/400 [27:13<43:13, 10.17s/it]page_not_found
+ 36%|███▋      | 146/400 [27:15<32:48,  7.75s/it]page_not_found
+page_not_found
+ 37%|███▋      | 147/400 [27:17<24:27,  5.80s/it]page_not_found
+ 37%|███▋      | 148/400 [27:25<27:15,  6.49s/it]page_not_found
+ 37%|███▋      | 149/400 [27:35<31:57,  7.64s/it]page_not_found
+ 38%|███▊      | 150/400 [27:45<34:57,  8.39s/it]page_not_found
+ 38%|███▊      | 153/400 [28:19<41:29, 10.08s/it]page_not_found
+page_not_found
+ 38%|███▊      | 154/400 [28:21<31:42,  7.73s/it]page_not_found
+ 39%|███▉      | 156/400 [28:52<45:07, 11.10s/it]page_not_found
+page_not_found
+ 40%|███▉      | 158/400 [28:55<25:33,  6.34s/it]page_not_found
+page_not_found
+ 40%|████      | 160/400 [29:14<31:08,  7.79s/it]page_not_found
+page_not_found
+ 40%|████      | 161/400 [29:17<25:28,  6.39s/it]page_not_found
+ 40%|████      | 162/400 [29:18<19:07,  4.82s/it]page_not_found
+ 41%|████      | 163/400 [29:19<14:41,  3.72s/it]page_not_found
+ 41%|████▏     | 165/400 [29:28<17:41,  4.52s/it]page_not_found
+page_not_found
+ 42%|████▏     | 166/400 [29:29<13:38,  3.50s/it]page_not_found
+ 42%|████▏     | 167/400 [29:32<11:59,  3.09s/it]page_not_found
+ 42%|████▏     | 169/400 [29:43<17:41,  4.59s/it]page_not_found
+page_not_found
+ 42%|████▎     | 170/400 [29:46<16:14,  4.24s/it]page_not_found
+ 43%|████▎     | 171/400 [29:47<12:36,  3.30s/it]page_not_found
+ 43%|████▎     | 172/400 [29:48<10:02,  2.64s/it]page_not_found
+ 44%|████▎     | 174/400 [29:59<16:53,  4.48s/it]page_not_found
+ 44%|████▍     | 175/400 [30:08<20:54,  5.57s/it]page_not_found
+page_not_found
+ 44%|████▍     | 177/400 [30:20<23:07,  6.22s/it]page_not_found
+page_not_found
+ 44%|████▍     | 178/400 [30:22<18:30,  5.00s/it]page_not_found
+ 45%|████▍     | 179/400 [30:23<14:08,  3.84s/it]page_not_found
+ 45%|████▌     | 180/400 [30:27<13:36,  3.71s/it]page_not_found
+ 45%|████▌     | 181/400 [30:36<19:29,  5.34s/it]page_not_found
+ 46%|████▌     | 182/400 [30:45<23:35,  6.49s/it]page_not_found
+ 46%|████▌     | 184/400 [30:57<21:44,  6.04s/it]page_not_found
+page_not_found
+ 46%|████▋     | 185/400 [30:58<16:20,  4.56s/it]page_not_found
+ 46%|████▋     | 186/400 [31:06<20:03,  5.62s/it]page_not_found
+ 47%|████▋     | 188/400 [31:09<11:46,  3.33s/it]page_not_found
+page_not_found
+ 47%|████▋     | 189/400 [31:18<17:48,  5.06s/it]page_not_found
+ 48%|████▊     | 191/400 [31:21<11:22,  3.27s/it]page_not_found
+page_not_found
+ 48%|████▊     | 192/400 [31:31<18:29,  5.33s/it]page_not_found
+ 48%|████▊     | 194/400 [31:43<18:25,  5.37s/it]page_not_found
+page_not_found
+ 49%|████▉     | 196/400 [32:01<23:43,  6.98s/it]page_not_found
+page_not_found
+ 49%|████▉     | 197/400 [32:11<26:46,  7.91s/it]page_not_found
+ 50%|████▉     | 199/400 [32:20<19:48,  5.91s/it]page_not_found
+page_not_found
+ 50%|█████     | 201/400 [32:25<14:13,  4.29s/it]page_not_found
+ 50%|█████     | 202/400 [32:26<11:01,  3.34s/it]page_not_found
+page_not_found
+ 51%|█████     | 204/400 [32:37<14:43,  4.51s/it]page_not_found
+page_not_found
+ 51%|█████▏    | 205/400 [32:38<11:22,  3.50s/it]page_not_found
+ 52%|█████▏    | 206/400 [32:40<10:02,  3.11s/it]page_not_found
+ 52%|█████▏    | 208/400 [32:43<07:40,  2.40s/it]page_not_found
+page_not_found
+ 52%|█████▎    | 210/400 [32:53<10:50,  3.42s/it]page_not_found
+page_not_found
+ 53%|█████▎    | 212/400 [32:58<08:40,  2.77s/it]page_not_found
+page_not_found
+ 53%|█████▎    | 213/400 [33:01<08:57,  2.87s/it]page_not_found
+ 54%|█████▎    | 214/400 [33:10<14:43,  4.75s/it]page_not_found
+ 54%|█████▍    | 215/400 [33:12<12:12,  3.96s/it]page_not_found
+ 54%|█████▍    | 216/400 [33:14<10:25,  3.40s/it]page_not_found
+ 55%|█████▍    | 218/400 [33:25<12:45,  4.21s/it]page_not_found
+page_not_found
+ 55%|█████▍    | 219/400 [33:34<17:07,  5.67s/it]page_not_found
+ 55%|█████▌    | 220/400 [33:37<14:42,  4.90s/it]page_not_found
+ 56%|█████▌    | 222/400 [33:55<20:04,  6.76s/it]page_not_found
+page_not_found
+ 56%|█████▌    | 224/400 [33:59<13:08,  4.48s/it]page_not_found
+page_not_found
+ 56%|█████▋    | 225/400 [34:01<11:05,  3.80s/it]page_not_found
+ 57%|█████▋    | 227/400 [34:10<11:15,  3.90s/it]page_not_found
+ 57%|█████▋    | 228/400 [34:14<10:30,  3.66s/it]page_not_found
+ 57%|█████▋    | 229/400 [34:16<09:05,  3.19s/it]page_not_found
+page_not_found
+ 57%|█████▊    | 230/400 [34:26<14:54,  5.26s/it]page_not_found
+ 58%|█████▊    | 231/400 [34:29<13:00,  4.62s/it]page_not_found
+ 58%|█████▊    | 232/400 [34:31<10:48,  3.86s/it]page_not_found
+ 58%|█████▊    | 233/400 [34:40<15:16,  5.49s/it]page_not_found
+ 58%|█████▊    | 234/400 [34:41<11:34,  4.19s/it]page_not_found
+ 59%|█████▉    | 235/400 [34:50<15:33,  5.66s/it]page_not_found
+ 59%|█████▉    | 237/400 [35:07<18:45,  6.90s/it]page_not_found
+page_not_found
+ 60%|█████▉    | 238/400 [35:09<14:44,  5.46s/it]page_not_found
+ 60%|█████▉    | 239/400 [35:17<16:46,  6.25s/it]page_not_found
+ 60%|██████    | 240/400 [35:18<12:33,  4.71s/it]page_not_found
+ 60%|██████    | 241/400 [35:27<16:03,  6.06s/it]page_not_found
+ 60%|██████    | 242/400 [35:28<12:01,  4.57s/it]page_not_found
+ 61%|██████    | 243/400 [35:30<10:01,  3.83s/it]page_not_found
+ 61%|██████▏   | 245/400 [35:48<16:19,  6.32s/it]page_not_found
+ 62%|██████▏   | 246/400 [35:56<17:35,  6.85s/it]page_not_found
+ 62%|██████▏   | 247/400 [35:59<14:35,  5.72s/it]page_not_found
+page_not_found
+ 62%|██████▏   | 248/400 [36:10<18:43,  7.39s/it]page_not_found
+ 62%|██████▎   | 250/400 [36:29<21:24,  8.57s/it]page_not_found
+ 63%|██████▎   | 251/400 [36:32<17:14,  6.94s/it]page_not_found
+page_not_found
+ 63%|██████▎   | 252/400 [36:34<13:32,  5.49s/it]page_not_found
+ 64%|██████▎   | 254/400 [36:46<12:42,  5.22s/it]page_not_found
+page_not_found
+ 64%|██████▍   | 255/400 [36:56<16:10,  6.69s/it]page_not_found
+ 64%|██████▍   | 256/400 [36:58<12:45,  5.31s/it]page_not_found
+ 64%|██████▍   | 257/400 [37:00<10:22,  4.35s/it]page_not_found
+ 65%|██████▍   | 259/400 [37:04<07:18,  3.11s/it]page_not_found
+ 65%|██████▌   | 260/400 [37:12<10:44,  4.61s/it]page_not_found
+ 65%|██████▌   | 261/400 [37:15<09:37,  4.16s/it]page_not_found
+page_not_found
+ 66%|██████▌   | 262/400 [37:26<13:41,  5.95s/it]page_not_found
+ 66%|██████▌   | 263/400 [37:27<10:16,  4.50s/it]page_not_found
+ 66%|██████▌   | 264/400 [37:36<13:20,  5.88s/it]page_not_found
+ 66%|██████▋   | 266/400 [37:40<08:58,  4.02s/it]page_not_found
+ 67%|██████▋   | 267/400 [37:42<07:37,  3.44s/it]page_not_found
+page_not_found
+ 67%|██████▋   | 269/400 [37:47<06:18,  2.89s/it]page_not_found
+ 68%|██████▊   | 270/400 [37:50<06:25,  2.97s/it]page_not_found
+ 68%|██████▊   | 271/400 [37:52<05:49,  2.71s/it]page_not_found
+page_not_found
+ 68%|██████▊   | 272/400 [37:53<04:44,  2.22s/it]page_not_found
+ 68%|██████▊   | 274/400 [38:23<17:07,  8.16s/it]page_not_found
+page_not_found
+ 69%|██████▉   | 275/400 [38:31<16:57,  8.14s/it]page_not_found
+ 69%|██████▉   | 276/400 [38:34<13:43,  6.64s/it]page_not_found
+ 70%|██████▉   | 278/400 [38:38<08:38,  4.25s/it]page_not_found
+ 70%|██████▉   | 279/400 [38:39<06:40,  3.31s/it]page_not_found
+page_not_found
+ 70%|███████   | 280/400 [38:49<10:07,  5.06s/it]page_not_found
+ 70%|███████   | 281/400 [38:57<11:51,  5.98s/it]page_not_found
+ 70%|███████   | 282/400 [39:00<10:03,  5.12s/it]page_not_found
+ 71%|███████   | 283/400 [39:02<08:12,  4.21s/it]page_not_found
+ 71%|███████   | 284/400 [39:05<07:31,  3.89s/it]page_not_found
+ 71%|███████▏  | 285/400 [39:14<10:28,  5.46s/it]page_not_found
+ 72%|███████▏  | 287/400 [39:33<14:22,  7.63s/it]page_not_found
+page_not_found
+ 72%|███████▏  | 288/400 [39:35<10:36,  5.68s/it]page_not_found
+ 72%|███████▏  | 289/400 [39:45<12:58,  7.01s/it]page_not_found
+ 72%|███████▎  | 290/400 [39:54<14:04,  7.68s/it]page_not_found
+ 73%|███████▎  | 291/400 [39:56<10:54,  6.01s/it]page_not_found
+ 73%|███████▎  | 293/400 [40:08<10:18,  5.78s/it]page_not_found
+page_not_found
+ 74%|███████▎  | 294/400 [40:18<12:29,  7.07s/it]page_not_found
+ 74%|███████▍  | 295/400 [40:27<13:27,  7.69s/it]page_not_found
+ 74%|███████▍  | 296/400 [40:35<13:32,  7.82s/it]page_not_found
+ 74%|███████▍  | 297/400 [40:38<10:28,  6.10s/it]page_not_found
+ 75%|███████▍  | 299/400 [40:51<10:11,  6.05s/it]page_not_found
+page_not_found
+ 75%|███████▌  | 301/400 [41:03<10:37,  6.44s/it]page_not_found
+page_not_found
+ 76%|███████▌  | 302/400 [41:05<08:23,  5.14s/it]page_not_found
+ 76%|███████▌  | 303/400 [41:15<10:42,  6.63s/it]page_not_found
+ 76%|███████▌  | 304/400 [41:17<08:25,  5.27s/it]page_not_found
+ 76%|███████▋  | 306/400 [41:24<06:31,  4.16s/it]page_not_found
+ 77%|███████▋  | 307/400 [41:32<08:17,  5.35s/it]page_not_found
+ 77%|███████▋  | 308/400 [41:33<06:14,  4.07s/it]page_not_found
+page_not_found
+ 77%|███████▋  | 309/400 [41:35<05:22,  3.55s/it]page_not_found
+ 78%|███████▊  | 311/400 [41:53<09:37,  6.49s/it]page_not_found
+page_not_found
+ 78%|███████▊  | 313/400 [41:59<06:28,  4.47s/it]page_not_found
+ 78%|███████▊  | 314/400 [42:01<05:22,  3.76s/it]page_not_found
+page_not_found
+ 79%|███████▉  | 316/400 [42:06<04:22,  3.12s/it]page_not_found
+ 79%|███████▉  | 317/400 [42:09<04:19,  3.13s/it]page_not_found
+ 80%|███████▉  | 318/400 [42:10<03:33,  2.60s/it]page_not_found
+page_not_found
+ 80%|████████  | 320/400 [42:13<02:26,  1.84s/it]page_not_found
+ 80%|████████  | 321/400 [42:23<05:41,  4.32s/it]page_not_found
+page_not_found
+ 80%|████████  | 322/400 [42:26<05:08,  3.95s/it]page_not_found
+ 81%|████████  | 323/400 [42:28<04:21,  3.40s/it]page_not_found
+ 81%|████████▏ | 325/400 [42:30<02:46,  2.23s/it]page_not_found
+ 82%|████████▏ | 326/400 [42:33<03:04,  2.49s/it]page_not_found
+page_not_found
+ 82%|████████▏ | 327/400 [42:41<05:04,  4.17s/it]page_not_found
+ 82%|████████▏ | 328/400 [42:43<04:15,  3.55s/it]page_not_found
+ 82%|████████▏ | 329/400 [42:46<03:41,  3.12s/it]page_not_found
+ 82%|████████▎ | 330/400 [42:56<06:04,  5.21s/it]page_not_found
+ 83%|████████▎ | 331/400 [42:57<04:34,  3.99s/it]page_not_found
+ 83%|████████▎ | 332/400 [43:06<06:15,  5.52s/it]page_not_found
+ 84%|████████▎ | 334/400 [43:08<03:35,  3.27s/it]page_not_found
+page_not_found
+ 84%|████████▍ | 335/400 [43:17<05:26,  5.03s/it]page_not_found
+ 84%|████████▍ | 336/400 [43:26<06:40,  6.26s/it]page_not_found
+ 84%|████████▍ | 337/400 [43:28<05:16,  5.02s/it]page_not_found
+ 84%|████████▍ | 338/400 [43:37<06:09,  5.96s/it]page_not_found
+ 85%|████████▍ | 339/400 [43:45<06:42,  6.60s/it]page_not_found
+ 85%|████████▌ | 340/400 [43:47<05:14,  5.25s/it]page_not_found
+ 86%|████████▌ | 342/400 [44:00<06:05,  6.30s/it]page_not_found
+ 86%|████████▌ | 343/400 [44:10<07:04,  7.45s/it]page_not_found
+page_not_found
+ 86%|████████▌ | 344/400 [44:12<05:27,  5.84s/it]page_not_found
+ 86%|████████▋ | 346/400 [44:24<04:47,  5.33s/it]page_not_found
+page_not_found
+ 87%|████████▋ | 348/400 [44:36<04:40,  5.39s/it]page_not_found
+page_not_found
+ 88%|████████▊ | 350/400 [45:00<07:05,  8.51s/it]page_not_found
+page_not_found
+ 93%|█████████▎| 371/400 [48:14<04:16,  8.85s/it]page_not_found
+ 93%|█████████▎| 373/400 [48:44<05:27, 12.14s/it]page_not_found
+page_not_found
+ 94%|█████████▍| 375/400 [48:54<03:27,  8.29s/it]page_not_found
+ 94%|█████████▍| 376/400 [49:14<04:42, 11.75s/it]page_not_found
+ 94%|█████████▍| 378/400 [49:25<03:16,  8.95s/it]page_not_found
+page_not_found
+ 95%|█████████▍| 379/400 [49:28<02:31,  7.20s/it]page_not_found
+ 95%|█████████▌| 381/400 [49:56<03:32, 11.18s/it]page_not_found
+ 96%|█████████▌| 382/400 [49:59<02:37,  8.76s/it]page_not_found
+ 96%|█████████▌| 383/400 [50:02<02:00,  7.08s/it]page_not_found
+ 97%|█████████▋| 387/400 [50:28<01:25,  6.56s/it]page_not_found
+page_not_found
+ 97%|█████████▋| 389/400 [50:40<01:14,  6.77s/it]page_not_found
+ 98%|█████████▊| 390/400 [50:45<01:00,  6.05s/it]page_not_found
+page_not_found
+ 98%|█████████▊| 391/400 [50:54<01:03,  7.02s/it]page_not_found
+ 98%|█████████▊| 392/400 [50:59<00:51,  6.50s/it]page_not_found
+ 98%|█████████▊| 394/400 [51:14<00:44,  7.49s/it]page_not_found
+ 99%|█████████▉| 395/400 [51:26<00:43,  8.64s/it]page_not_found
+ 99%|█████████▉| 396/400 [51:37<00:37,  9.44s/it]page_not_found
+ 99%|█████████▉| 397/400 [51:38<00:20,  6.96s/it]page_not_found
+100%|█████████▉| 398/400 [51:39<00:10,  5.24s/it]page_not_found
+100%|██████████| 400/400 [51:55<00:00,  7.79s/it]
+page_not_found
+ 31%|███       | 124/400 [12:37<27:54,  6.07s/it]page_not_found
+ 52%|█████▎    | 210/400 [23:03<29:47,  9.41s/it]page_not_found
+100%|██████████| 400/400 [44:21<00:00,  6.65s/it]
+Traceback (most recent call last):
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2019.1.3\helpers\pydev\pydevd.py", line 1415, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2019.1.3\helpers\pydev\_pydev_imps\_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "X:/code/AsosBot/main.py", line 123, in <module>
+    brands_yesterday = load_yesterday(brands_arr)
+  File "X:/code/AsosBot/main.py", line 111, in load_yesterday
+    with open(load_path, 'r', encoding='utf-8-sig') as reader:
+FileNotFoundError: [Errno 2] No such file or directory: '25/stone-island.json'
+
+Process finished with exit code 1
