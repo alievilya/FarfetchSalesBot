@@ -1,5 +1,5 @@
 *.yml
 .idea
-venv
 /26/
 /25/
+/venv/
